@@ -43,4 +43,4 @@ def generate_cypher_block(images, keys):
     return cypher
 
 cypher = generate_cypher_block(sys.argv[1].split(','), sys.argv[2].split(','))
-cypher.save("CyperImage.png")
+cypher.save("CypherImage.png")
