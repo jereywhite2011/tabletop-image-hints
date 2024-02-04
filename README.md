@@ -14,7 +14,9 @@ These are python scripts I wrote to create hidden hints to players when running 
 ## Images
 The keys can be overlayed ontop of the cypher image to show the hidden values. For example, [key_red](/example_images/key_red.png):
 ![key_red.png](/example_images/key_red.png)
+
 Can be overlayed onto the [CypherImage](/example_images/CypherImage.png):
 ![CypherImage](/example_images/CypherImage.png)
+
 To show the hidden message:
 ![combined_red_image.png](/example_images/combined_red_image.png)
